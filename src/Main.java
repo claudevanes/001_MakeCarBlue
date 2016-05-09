@@ -8,7 +8,7 @@ public class Main {
 
 
 		System.out.println("Learn how to commit throught git bash.");
-		
+		System.out.println("__________________");
 	}
 
 }
